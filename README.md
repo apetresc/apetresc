@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm an open-source developer passionate about decentralization and federation
-(the real kind, not the blockchain snake oil kind).
+I'm an open-source developer passionate about decentralization and federation.
 
 ### 📫 How to reach me:
   - Email: [adrian@apetre.sc](mailto:adrian@apetre.sc)
